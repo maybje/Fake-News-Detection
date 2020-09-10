@@ -7,3 +7,5 @@ Machine Learning and Data Mining project:
 - Logistic Regression
 - SVM
 - Fully-Connected Neural Network (MLP)
+
+**Complete report can be shared upon request**
